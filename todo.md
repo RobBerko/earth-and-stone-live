@@ -1,0 +1,29 @@
+# Project TODO
+
+- [x] Basic homepage layout with all sections
+- [x] Navigation menu with smooth scrolling
+- [x] Hero section with background image and CTAs
+- [x] About section with company description and stats
+- [x] Services section (Stone Masonry, Landscape Design, Outdoor Living)
+- [x] Portfolio gallery with 4 project images and lightbox
+- [x] Contact form with fields: name, email, phone, service, message
+- [x] Footer with contact info and social links
+- [x] Custom favicon
+- [x] Remove circular logo from About section
+- [x] Replace navbar logo with new text-based logo (JPG version)
+- [x] Update header logo to dark SVG (inline React component)
+- [x] Update footer logo to white SVG (inline React component)
+- [x] Remove email address from entire site
+- [x] Redesign contact form to match reference image ("Get a Free, No Obligation Quote")
+- [x] Upgrade to full-stack with backend server
+- [x] Create GoHighLevel webhook API route (/api/ghl-webhook)
+- [x] Set GHL_WEBHOOK_URL environment variable
+- [x] Test form submission to GHL webhook (successful - shows "Thank You!" confirmation)
+- [ ] User to provide real project photos for portfolio
+- [ ] User to provide final vector logo if available
+- [x] Update GHL_WEBHOOK_URL to new webhook trigger URL
+- [x] Submit test entry through contact form with dummy data
+- [x] Update contact form to POST via backend proxy to GHL webhook URL
+- [x] Keep visual design exactly the same
+- [x] Show "Thank you, we will be in touch" success message after submission
+- [x] Clear form fields after successful submission
